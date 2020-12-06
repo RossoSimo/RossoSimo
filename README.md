@@ -2,7 +2,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://spotify-now-playing.rossosimo.vercel.app//api/spotify-playing" alt="Doos Spotify Playing" width="350" />](https://open.spotify.com/user/ovr8jj355ynjf182r353lq69t?si=evHvKeOhSPGgwLMsnMxGGA)
+<a href="https://now-playing-profile-navy.vercel.app/now-playing?open">
+    <img src="https:/now-playing-profile-navy.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -10,3 +12,5 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-omega-dusky.vercel.app/api?username=RossoSimo&show_icons=true&hide_border=true" />
 
 </details>
+
+https://now-playing-profile-navy.vercel.app/now-playing

@@ -4,9 +4,11 @@
 
 <div>
     
-<a href="https://now-playing-profile-navy.vercel.app/now-playing?open">
-    <img src="https:/now-playing-profile-navy.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+<svg href="https://now-playing-profile-navy.vercel.app/now-playing?open">
+    
+    <img src="https:/now-playing-profile-navy.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+    
+</svg>
 
 </div>
 

@@ -1,7 +1,5 @@
 ### Hi there, I'm Simone 👋
 
-<br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rossosimo&label=Profile%20views&color=006eff&style=flat-square" alt="rossosimo" /> </p>
 
 <h3 align="left">Connect with me:</h3>

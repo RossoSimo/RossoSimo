@@ -15,13 +15,5 @@
 </a>
 
 <br>
-<br>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-omega-dusky.vercel.app/api?username=RossoSimo&show_icons=true&hide_border=true" />
-
-</details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rossosimo&label=Profile%20views&color=006eff&style=flat-square" alt="rossosimo" /> </p>

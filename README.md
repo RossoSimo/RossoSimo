@@ -8,7 +8,7 @@ I'm a Computer Engineering student at the University of Padova, passionate about
 
 ### 👨‍💻 About Me
 
-* 🌱 I’m currently learning React
+* 🌱 I’m currently learning React / NestJS
 * 📫 Connect with me on [LinkedIn](https://linkedin.com/in/rossosimone)
 
 ---

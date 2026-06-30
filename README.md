@@ -8,7 +8,7 @@ I'm a Computer Engineering student at the University of Padova, passionate about
 
 ### 👨‍💻 About Me
 
-* 🌱 I’m currently learning React / NestJS
+* 🌱 I’m currently learning Pandas / React / NestJS
 * 📫 Connect with me on [LinkedIn](https://linkedin.com/in/rossosimone)
 
 ---
@@ -18,16 +18,16 @@ I'm a Computer Engineering student at the University of Padova, passionate about
 Here are some of the technologies and tools I work with on a daily basis:
 
 **Languages:**
-* Python, JavaScript, TypeScript...
+* Python, JavaScript, TypeScript, Java, C/C++...
 
 **Frontend:**
-* React, Vue.js, TailwindCSS, Bootstrap...
+* React, Vue.js, Bootstrap, TailwindCSS...
 
 **Backend & Databases:**
 * Node.js, Django, PostgreSQL, SQLite...
 
 **Tools & DevOps:**
-* Git, Docker, AWS, Linux
+* Git, Docker, AWS, Linux...
 
 ---
 

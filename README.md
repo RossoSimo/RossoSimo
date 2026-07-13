@@ -8,7 +8,8 @@ I'm a Computer Engineering student at the University of Padova, passionate about
 
 ### 👨‍💻 About Me
 
-* 🌱 I’m currently learning more about AI / Pandas
+* 💻 I’m currently working on [easycatasto.it](https://easycatasto.it)
+* 🌱 I’m focusing on expanding my skills in AI
 * 📫 Connect with me on [LinkedIn](https://linkedin.com/in/rossosimone)
 
 ---
